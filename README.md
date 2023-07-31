@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bekuech1
-- 👀 I’m interested in Web Developmen 
-- 🌱 I’m currently learning CSS and JavaScript
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on Frontend Web Development and Product Design
 - 📫 How to reach me @Igboanugobekuechi22@yahoo.com
 
