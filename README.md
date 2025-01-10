@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Bekuech1
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on Frontend Web Development and Product Design
-- 📫 How to reach me @Igboanugobekuechi22@yahoo.com
+- 👋 Hi, I’m Chibuikem Igboanugo
+- 📫 Reach me @Igboanugobekuechi22@yahoo.com
 
 <!---
 Bekuech1/Bekuech1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
